@@ -1,4 +1,4 @@
-My name is Sarah Wright, and I use data as a tool to generate insights and create narrative driven tools for community focused organizations. As a result, organizations can help the people they server find pattern driven solutions and insights and change the lives of the people impacted in a powerful way. 
+My name is Sarah Wright, and I use data as a tool to generate insights and create narrative driven tools for community focused organizations. As a result, organizations can help the people they server find pattern driven solutions and insights to change the lives of the people they serve in a powerful way. 
 
 
 
