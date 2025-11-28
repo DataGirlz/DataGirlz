@@ -1,4 +1,38 @@
-My name is Sarah Wright, and I use data as a tool to generate insights and create narrative driven tools for community focused organizations. As a result, organizations can help the people they server find pattern driven solutions and insights to change the lives of the people they serve in a powerful way. 
+
+
+
+
+# ✨Hi there, I'm Sarah✨
+
+![Afro Solar Punk Graphic](https://raw.githubusercontent.com/DataGirlz/DataGirlz/35441a83bd8e224af39a475485ff6b8330aea6d1/Copy%20of%20LinkedIn%20banner%20fotografia%20bege%20claro.png)
+
+Data used to overwhelm me, so I learned how to reshape it.  
+Now I make clear, friendly dashboards and tools that help people understand their data.  
+Dashboards that boost data literacy and chase the kind of future Octavia Butler would smile at.  
+
+---
+
+## 🦥 What I Do
+- Build **dashboards and visualizations** that make complex data easy to understand  
+- Turn messy numbers into **insightful, human-centered stories**  
+- Help teams **see patterns, make decisions, and imagine possibilities**  
+
+---
+
+## 🌱 Currently Exploring
+- Empathetic design in analytics  
+- Data literacy tools that teach and delight  
+- Projects inspired by **worldbuilding, storytelling, and inclusive futures** 
+
+## 🍄 Connect with Me
+- [Portfolio](your-portfolio-link)  
+- [LinkedIn](https://www.linkedin.com/in/swright22/)  
+
+
+
+<!-- Data used to overwhelm me, so I learned how to reshape it. Now I make clear, friendly dashboards and tools that help people understand their data. Dashboards that boost data literacy and chase the kind of future Octavia Butler would smile at.
+
+<!-- My name is Sarah Wright, and I use data as a tool to generate insights and create narrative driven tools for community focused organizations. As a result, organizations can help the people they server find pattern driven solutions and insights to change the lives of the people they serve in a powerful way. --> 
 
 
 
