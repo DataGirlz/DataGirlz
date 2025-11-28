@@ -2,7 +2,7 @@
 
 
 
-# ✨Hi there, I'm Sarah✨
+# ✨Hi there, I'm Sarah✨ <br> <h3>**Data Analyst & Consultant | Turning Data into Business Insights**</h3>
 
 ![Afro Solar Punk Graphic](https://raw.githubusercontent.com/DataGirlz/DataGirlz/35441a83bd8e224af39a475485ff6b8330aea6d1/Copy%20of%20LinkedIn%20banner%20fotografia%20bege%20claro.png)
 
